@@ -139,10 +139,10 @@ a:hover {
   top: 40px;
 }
 
-.bottom-cloud {
+.top-container .title-text .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 300px;
+  
 }
 
 .code-img {
